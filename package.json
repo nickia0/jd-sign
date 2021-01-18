@@ -8,17 +8,17 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/sazs34/MyActions.git"
+        "url": "git+https://github.com/fangpidedongsun/MyActions.git"
     },
     "keywords": [
         "sign"
     ],
-    "author": "sazs",
+    "author": "fangpidedongsun",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/sazs34/MyActions/issues"
+        "url": "https://github.com/fangpidedongsun/MyActions/issues"
     },
-    "homepage": "https://github.com/sazs34/MyActions#readme",
+    "homepage": "https://github.com/fangpidedongsun/MyActions#readme",
     "dependencies": {
         "request": "^2.88.2",
         "request-promise": "^4.2.5",
