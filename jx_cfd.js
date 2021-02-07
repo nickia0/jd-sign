@@ -3,7 +3,7 @@ const fs = require('fs')
 const download = require('download')
 
 const $ = new Env('惊喜财富岛');
-const notify =  '';  /*$.isNode() ? require('./sendNotify') : '';*/
+const notify =  $.isNode() ? require('./sendNotify') : '';
 // 公共变量
 const JD_COOKIE = process.env.JD_COOKIE
 //只用于判断，推送是sendnodify
