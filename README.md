@@ -1,4 +1,4 @@
-# 特别声明:
+# 特别声明::
 
 -   本仓库发布的 MyActions 项目中涉及的任何解锁和解密分析脚本，仅用于测试和学习研究，禁止用于商业用途，不能保证其合法性，准确性，完整性和有效性，请根据情况自行判断.
 
@@ -30,4 +30,4 @@
 (时效性较快)lxk0301-Secrets配置[点击查看](https://github.com/fangpidedongsun/jd_scripts2/blob/master/githubAction.md)
 
 
-> 具体如何取 cookie 如何配置,可参考 [lxk0301 的获取京东Cookies教程](hhttps://github.com/fangpidedongsun/jd_scripts2/blob/master/githubAction.md#%E4%BA%AC%E4%B8%9Ccookie)
+> 具体如何取 cookie 如何配置,可参考 [lxk0301 的获取京东Cookies教程](hhttps://github.com/fangpidedongsun/jd_scripts2/blob/master/githubAction.md#%E4%BA%AC%E4%B8%9Ccookie)                   
